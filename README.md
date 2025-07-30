@@ -3,7 +3,6 @@
 ## Description
 **fw-check** is a smart firewall testing tool that validates `iptables`/`nftables` rules by simulating real traffic. It goes beyond basic port scanning to verify actual protocol behavior (TCP/UDP/ICMP) with actionable results.
 
----
 
 ## Features
 
@@ -22,7 +21,6 @@
    - ✅/❌ visual indicators  
    - Explicit reasons for blocks (e.g., `Connection refused` vs `Timeout`)  
 
----
 
 ## Installation  
 ```bash
