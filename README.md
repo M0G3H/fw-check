@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Fw-check.png" alt="fw-check logo" style="width: 100%; max-width: 1000px;">
+  <img src="Fw-check-Photoroom.png" alt="fw-check logo" style="width: 100%; max-width: 1000px;">
 </div>
 
 # fw-check 🔥🛡️
